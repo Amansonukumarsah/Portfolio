@@ -1,0 +1,89 @@
+.body{
+    background-color:white;
+}
+.Menu{
+    display: flex;
+    margin-left:200px;
+}
+
+.Menu ul li{
+    list-style-type:none;
+}
+.Nav{
+    text-decoration: none;
+    color:black;
+}
+.Navbar{
+    margin-top:30px;
+}
+
+.contactmain{
+   background-color: rgb(0, 254, 0);
+}
+.proud{
+    height:300px;
+}
+
+/* .text{
+    margin-top: 30px;
+}
+.tm{
+    margin-top: 50px;
+} */
+.foot{
+    height: 200px;
+}
+.img{
+    margin-top: 10px;
+    height: 30px;
+    width:30px;
+}
+.face{
+    margin-left: 100px;
+}
+.fl{
+    margin-top: 200px;
+}
+.relabsolute{
+    display: flex;
+}
+.absolute{
+    margin-left: -180px;
+    margin-top: 20px;
+}
+
+.absolute h1{
+    font-size: 500%;
+}
+.imgpic{
+    z-index:1;
+}
+.wimg{
+    height: 30px;
+    width: 15px;
+    margin-left: 10px;
+    margin-top: -10px;
+}
+.navcontact{
+  display: flex;
+}
+.Nav1{
+    z-index: 1;
+}
+.contact{
+  width: 300px;
+  height: 400px;
+  margin-left: -105px;
+}
+
+.work-box{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.work-card{
+    width:250px;
+}
+.work-card img{
+    width:100%;
+}
